@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C35B71gKLohFCIUqQKAeEwgJqwPPAp3UTSLtAIIVLObeUTh2uk7Cf6oABqcVqp2/3AINbD1oSdLHjeGIGES4Gw==",
+  "dgSpecHash": "YMcIdKTAAlncH1SlgrwLH9by7bMCj+jDxt+Je9tF2Q9HYM/I4wtMwQpE0ONI8tSjJTl27KVOHuQJNVR4J0Y/QA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WM\\source\\repos\\HelloBlazor\\HelloBlazor\\Shared\\HelloBlazor.Shared.csproj",
+  "projectFilePath": "C:\\Users\\WM\\source\\repos\\BlazingPizza\\HelloBlazor\\Shared\\HelloBlazor.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

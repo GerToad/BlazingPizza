@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = HelloBlazor.Server
-build_property.ProjectDir = C:\Users\WM\source\repos\HelloBlazor\HelloBlazor\Server\
+build_property.ProjectDir = C:\Users\WM\source\repos\BlazingPizza\HelloBlazor\Server\

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WM\\source\\repos\\HelloBlazor\\HelloBlazor\\Shared\\HelloBlazor.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\WM\\source\\repos\\BlazingPizza\\HelloBlazor\\Shared\\HelloBlazor.Shared.csproj",
       "projectName": "HelloBlazor.Shared",
-      "projectPath": "C:\\Users\\WM\\source\\repos\\HelloBlazor\\HelloBlazor\\Shared\\HelloBlazor.Shared.csproj",
+      "projectPath": "C:\\Users\\WM\\source\\repos\\BlazingPizza\\HelloBlazor\\Shared\\HelloBlazor.Shared.csproj",
       "packagesPath": "C:\\Users\\WM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WM\\source\\repos\\HelloBlazor\\HelloBlazor\\Shared\\obj\\",
+      "outputPath": "C:\\Users\\WM\\source\\repos\\BlazingPizza\\HelloBlazor\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\WM\\AppData\\Roaming\\NuGet\\NuGet.Config",

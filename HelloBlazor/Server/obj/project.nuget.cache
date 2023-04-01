@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SABFKzDuWxh8VSFU5Q5QAP2fTDrU2gR3f4mCW+2dkgdr8804+yZZXJStMdGGfE62cH6/dxNGAQIzHlJLcEsxLQ==",
+  "dgSpecHash": "IPHpneSUxDxFkIfCVep1nE2VaLv41aXz4L+mqtudwGod8R2poPDoRU3dLYg2Henl552dZiZlrHahCLSyZqjm5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WM\\source\\repos\\HelloBlazor\\HelloBlazor\\Server\\HelloBlazor.Server.csproj",
+  "projectFilePath": "C:\\Users\\WM\\source\\repos\\BlazingPizza\\HelloBlazor\\Server\\HelloBlazor.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WM\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\WM\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.7\\microsoft.aspnetcore.authorization.5.0.7.nupkg.sha512",
